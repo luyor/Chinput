@@ -13,8 +13,17 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    inputmanager.cpp \
+    hzimg.cpp \
+    flowlayout.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    inputmanager.h \
+    hzImg.h \
+    flowlayout.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    mhzk16
