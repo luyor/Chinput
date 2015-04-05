@@ -1,4 +1,5 @@
 #include <fstream>
+#include <istream>
 #include <QPainter>
 #include <QDir>
 #include "hzImg.h"
