@@ -7,7 +7,7 @@
 ### Introductions
 
 - This program is a chinese character editor (embedded input method), using ZB standard; each character is represented by a 16 bits unsigned integer
-- The whole UI are separate into two parts, upper part and lower part
+- The whole UI has two parts, upper part and lower part
 - The upper part is editor area, where user can edit the sentences he/she typed in; the lower part is input area, where user can type in Pinyin and select correct character
 
 ### Features
